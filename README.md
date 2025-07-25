@@ -1,1 +1,1 @@
-# FaceRecognition-Attendnance-System
+# face_recognition_project
